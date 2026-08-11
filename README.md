@@ -17,3 +17,4 @@ This is my most important repo as of now. This repo will have each days report .
 11) what has been our progress as of now
 12) Interest check ,difficulty check and confidence check
 13) Rating of tomorrow: x/10
+14)Backlog
